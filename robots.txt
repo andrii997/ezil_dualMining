@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /personal_stats
+Host: https://ezil.me
